@@ -59,7 +59,7 @@ class BasicWorldDemo {
 
     const loader = new THREE.CubeTextureLoader();
     const texture = loader.load([
-        './resources/posx.jpg',
+        '<danblomberg className="github io"></danblomberg>/resources/posx.jpg',
         './resources/negx.jpg',
         './resources/posy.jpg',
         './resources/negy.jpg',
